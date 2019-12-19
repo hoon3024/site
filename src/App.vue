@@ -184,7 +184,7 @@ section.skill span.btn.number:hover {
 }
 
 .scrollUp {
-    transform: translateY(-105%);
+    transform: translateY(-105%); 
 }
 
 .block {
